@@ -237,7 +237,6 @@ The Executive Overview dashboard provides a high-level view of overall business 
 
 ### Dashboard Preview
 ![Executive Overview Dashboard](executive_overview.png)
-![Operations & Customer Insighgs Dashboard](operations_customer_insights.png)
 
 ### Visualizations
 
@@ -265,6 +264,8 @@ The second dashboard focuses on operational performance and customer behavior.
 - Average Review Score
 - Average Delivery Time
 
+### Dashboard Preview
+![Operations & Customer Insighgs Dashboard](operations_customer_insights.png)
 ### Visualizations
 
 - Delivery Performance
